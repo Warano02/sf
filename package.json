@@ -4,8 +4,8 @@
   "description": "Ceci est l'api de mon projet de site de téléchargement d'épreuve",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js", 
-    "dev": "nodemon --env-file=.env main.js" 
+    "start": "node main.js",
+    "dev": "nodemon --env-file=.env main.js"
   },
   "author": "Warano carineteoi@gmail.com",
   "license": "ISC",
